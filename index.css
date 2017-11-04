@@ -1,0 +1,110 @@
+body {
+	font-family: "Courier New", Courier, monospace;
+	color: #71ff30;
+	background-color: #1e1e1e;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.tc {
+	text-align: center;
+}
+
+::selection {
+  background: #7af442;
+  color: #282828;
+}
+
+#jumbo {
+	background-color: transparent;
+	text-align: center;
+}
+
+.btn:focus,.btn:active {
+   outline: none !important;
+}
+
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
+    outline: 0;
+}
+
+button,
+button:active,
+button:focus, 
+button:hover,
+.btn,
+.btn:active, 
+.btn:focus, 
+.btn:hover{   
+    outline:rgb(0, 255, 255); !important;
+}
+
+.version {
+	font-size: 25px;
+}
+
+.bitship {
+	background-image: url("BitShip.png");
+}
+
+.pdTx {
+	padding-left: 30%;
+	padding-right: 30%;
+}
+
+.smH { 
+
+}
+
+#jumbo1 {
+	background-color: transparent;
+	text-align: center;
+
+}
+
+#jumbo1 h2{
+	font-size: 25px;
+	
+}
+
+.doc {
+	margin-left:12.5%;
+}
+
+a {
+	color:#71ff30;
+
+}
+
+a:hover {
+	color:#71ff30;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#onPic {
+	z-index: object.style.z-index="-1";
+}
+
+.left {
+	margin-left: 12.5%;
+}
+
+.right {
+	margin-right: 50%;
+}
+
+#footer {
+	background-color: #1b1b1b;
+	float:left;
+}
+/* I didn't put color or margin in the footer or header because it looked better w/ out it, not because i'm lazy. */
+
+#header {
+	background-color: #1b1b1b;
+
+}
