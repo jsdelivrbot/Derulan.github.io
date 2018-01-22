@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1516081909,
+	"version": 1516586912,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -45,6 +45,7 @@
 		"images/sprite8-sheet0.png",
 		"images/scrolltime-sheet0.png",
 		"images/sprite10-sheet0.png",
+		"images/sprite12-sheet0.png",
 		"media/boom.m4a",
 		"media/boom.ogg",
 		"media/collect_gold.m4a",
